@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>    
+    <Version>0.0.9</Version>    
+    <PackageReleaseNotes>Built with template version 0.0.9</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Coolblue.Utilities.MonitoringEvents" Version="1.1.0" />
+    <PackageReference Include="Coolblue.Utilities.Resilience" Version="0.0.1" />
+    <PackageReference Include="LanguageExt.Core" Version="2.1.21" />
+  </ItemGroup>
+
+</Project>

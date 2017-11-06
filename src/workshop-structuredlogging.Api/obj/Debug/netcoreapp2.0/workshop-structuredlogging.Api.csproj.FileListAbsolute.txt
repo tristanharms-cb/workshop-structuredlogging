@@ -1,0 +1,13 @@
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/obj/Debug/netcoreapp2.0/workshop-structuredlogging.Api.csproj.CoreCompileInputs.cache
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/obj/Debug/netcoreapp2.0/workshop-structuredlogging.Api.AssemblyInfoInputs.cache
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/obj/Debug/netcoreapp2.0/workshop-structuredlogging.Api.AssemblyInfo.cs
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/bin/Debug/netcoreapp2.0/appsettings.json
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/bin/Debug/netcoreapp2.0/workshop-structuredlogging.Api.deps.json
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/bin/Debug/netcoreapp2.0/workshop-structuredlogging.Api.runtimeconfig.json
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/bin/Debug/netcoreapp2.0/workshop-structuredlogging.Api.runtimeconfig.dev.json
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/bin/Debug/netcoreapp2.0/workshop-structuredlogging.Api.dll
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/bin/Debug/netcoreapp2.0/workshop-structuredlogging.Api.pdb
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/bin/Debug/netcoreapp2.0/workshop-structuredlogging.dll
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/bin/Debug/netcoreapp2.0/workshop-structuredlogging.pdb
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/obj/Debug/netcoreapp2.0/workshop-structuredlogging.Api.dll
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging.Api/obj/Debug/netcoreapp2.0/workshop-structuredlogging.Api.pdb

@@ -1,0 +1,8 @@
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/bin/Debug/netstandard2.0/workshop-structuredlogging.deps.json
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/bin/Debug/netstandard2.0/workshop-structuredlogging.dll
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/bin/Debug/netstandard2.0/workshop-structuredlogging.pdb
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/obj/Debug/netstandard2.0/workshop-structuredlogging.csproj.CoreCompileInputs.cache
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/obj/Debug/netstandard2.0/workshop-structuredlogging.AssemblyInfoInputs.cache
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/obj/Debug/netstandard2.0/workshop-structuredlogging.AssemblyInfo.cs
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/obj/Debug/netstandard2.0/workshop-structuredlogging.dll
+/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/obj/Debug/netstandard2.0/workshop-structuredlogging.pdb

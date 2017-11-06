@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{13175830-A937-4BCD-BC53-F0DBBBC6B659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workshop-structuredlogging", "src\workshop-structuredlogging\workshop-structuredlogging.csproj", "{FE7E732A-4374-4148-B136-9821EAC99F0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "workshop-structuredlogging.Api", "src\workshop-structuredlogging.Api\workshop-structuredlogging.Api.csproj", "{8BE562ED-52ED-4607-9CDA-4D688237F871}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Debug|x64.ActiveCfg = Debug|x64
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Debug|x64.Build.0 = Debug|x64
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Debug|x86.ActiveCfg = Debug|x86
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Debug|x86.Build.0 = Debug|x86
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Release|x64.ActiveCfg = Release|x64
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Release|x64.Build.0 = Release|x64
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Release|x86.ActiveCfg = Release|x86
+		{FE7E732A-4374-4148-B136-9821EAC99F0A}.Release|x86.Build.0 = Release|x86
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Debug|x64.ActiveCfg = Debug|x64
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Debug|x64.Build.0 = Debug|x64
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Debug|x86.ActiveCfg = Debug|x86
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Debug|x86.Build.0 = Debug|x86
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Release|x64.ActiveCfg = Release|x64
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Release|x64.Build.0 = Release|x64
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Release|x86.ActiveCfg = Release|x86
+		{8BE562ED-52ED-4607-9CDA-4D688237F871}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE7E732A-4374-4148-B136-9821EAC99F0A} = {13175830-A937-4BCD-BC53-F0DBBBC6B659}
+		{8BE562ED-52ED-4607-9CDA-4D688237F871} = {13175830-A937-4BCD-BC53-F0DBBBC6B659}
+	EndGlobalSection
+EndGlobal

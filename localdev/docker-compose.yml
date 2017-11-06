@@ -1,0 +1,17 @@
+version: '2'
+services:
+  splunk:
+    image: splunk/splunk:6.6.1
+    hostname: splunkenterprise
+    environment:
+      SPLUNK_START_ARGS: --accept-license --answer-yes
+      SPLUNK_ENABLE_LISTEN: 9997
+      SPLUNK_ADD: tcp 1514
+      SPLUNK_ADD_1: udp 1515
+      SPLUNK_USER: root
+    ports:
+      - "8000:8000"
+      - "9997:9997"
+      - "8088:8088"
+      - "1514:1514"
+      - "1515:1515/udp"

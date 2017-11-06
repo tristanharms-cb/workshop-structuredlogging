@@ -1,0 +1,10 @@
+﻿{
+  "sdk": {
+    "version": "1.0.4"
+  },
+  "projects": [
+    "src/workshop-structuredlogging",
+    "src/workshop-structuredlogging.Persistence.Oracle",
+    "src/workshop-structuredlogging.Api"
+  ]
+}

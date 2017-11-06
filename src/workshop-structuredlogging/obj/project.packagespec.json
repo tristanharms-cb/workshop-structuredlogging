@@ -1,0 +1,46 @@
+﻿{
+  "version": "0.0.9",
+  "restore": {
+    "projectUniqueName": "/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/workshop-structuredlogging.csproj",
+    "projectName": "workshop-structuredlogging",
+    "projectPath": "/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/workshop-structuredlogging.csproj",
+    "outputPath": "/usr/local/Nielss-MacBook-Pro/dev/workshop-structuredlogging/src/workshop-structuredlogging/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0-preview2-25401-01"
+        },
+        "Coolblue.Utilities.MonitoringEvents": {
+          "target": "Package",
+          "version": "1.1.0"
+        },
+        "Coolblue.Utilities.Resilience": {
+          "target": "Package",
+          "version": "0.0.1"
+        },
+        "LanguageExt.Core": {
+          "target": "Package",
+          "version": "2.1.21"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
